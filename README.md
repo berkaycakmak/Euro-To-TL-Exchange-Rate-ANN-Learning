@@ -16,4 +16,7 @@ Multilayer feedforward neural networks containing hidden neurons and linear outp
 
 ### Result
 
+When the artificial neural network design is evaluated, it is realized that MSE=0.0011975 and R^2=0.9996 in the model with two hidden layers feedforward and back propagation algorithm, in the model with 10 and 9 neurons in the hidden layers, 1500 data for training and 309 data for testing. As a result of the experiment, the test error was determined as 0.0043. 
+
 In this study, the euro exchange rate teaching regarding Turkey has been made to the artificial neural network. The data in this study covers the 5 years between November 2015 and November 2020. When the results obtained from the study are examined, the use of the ANN model, which has been frequently used in economic forecasting models in recent years, is successful in estimating exchange rates. It is clearly seen from the study that strong predictions can be made with the use of ANN in exchange rate estimation. 
+
